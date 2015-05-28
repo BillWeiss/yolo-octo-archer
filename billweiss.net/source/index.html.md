@@ -28,14 +28,14 @@ point:
  * Security of networks, systems, people... anything and everything
 
 I've got a GPG key if you like that sort of thing.  Email address is the one above.<br />
-The key ID: <code>5D055836</code><br />
-Fingerprint: <code>4B15 D741 D64D 55BF 52AA 2221 75A9 6570 5D05 5836</code><br />
+The key ID: `5D055836`<br />
+Fingerprint: `4B15 D741 D64D 55BF 52AA 2221 75A9 6570 5D05 5836`<br />
 The entire file is here: [bweiss.asc](http://www.clanspum.net/~houdini/bweiss.asc)
 
-I have an old key, ID <code>0AD234B0</code>, which has been revoked.  Nothing
+I have an old key, ID `0AD234B0`, which has been revoked.  Nothing
 nefarious happened, I just lost access to it.
 
 I, in fact, can take Bitcoin, though I don't know what I'm doing with
-it: <code>1GdZKQWspkUbdqFdBHcNQumiBxPFNmV1GA</code>.  Don't pay anything you owe me
+it: `1GdZKQWspkUbdqFdBHcNQumiBxPFNmV1GA`.  Don't pay anything you owe me
 via this address, but if you want to throw a couple of bucks in, go
 ahead :)
