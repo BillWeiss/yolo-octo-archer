@@ -24,3 +24,4 @@ gem "bootstrap-sass", :require => false
 
 # Syntax highlighting for code blocks, whenever that happens
 gem "middleman-syntax"
+gem "redcarpet"
