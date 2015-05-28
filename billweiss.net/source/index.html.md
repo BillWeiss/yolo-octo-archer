@@ -9,8 +9,7 @@ much to look at: notice the above list doesn't say designer.
 I'm always promising myself that I'll put something more in this
 space. This is a second step: now it's not an Apache directory index,
 AND it's not just raw HTML inexpertly laid down by hand.  I'm using
-<%= link_to "Middleman", "http://middleman.com/" %> to maintain the
-thing.
+[MiddleMan](http://middleman.com/) to maintain the thing.
 
 In the meantime, you can find me in a bunch of places:
 
