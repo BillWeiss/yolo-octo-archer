@@ -3,7 +3,7 @@ title: Bill Weiss| Systems, Networks, Security
 ---
 
 Hi there! This is the semi-professional website of Bill Weiss, a
-systems and operations type currently in Chicago, IL. I know it's not
+systems and operations type currently in Portland, OR. I know it's not
 much to look at: notice the above list doesn't say designer.
 
 I'm always promising myself that I'll put something more in this
@@ -14,17 +14,17 @@ AND it's not just raw HTML inexpertly laid down by hand.  I'm using
 In the meantime, you can find me in a bunch of places:
 
  * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
- * At [Backstop Solutions Group](https://www.backstopsolutions.com/), my day job.
-   "bill" at that domain will reach me, as well lots of administrative addresses.
+ * At [Puppet Labs](https://puppetlabs.com/), my day job.  "bV" at that domain will reach me.
  * On [GitHub as BillWeiss](https://github.com/BillWeiss)
  * Via email tons of places, but preferably "bv" at this domain
 
 Things I'm interested in, and will start writing about here at some
 point:
 
+ * Management!  I'm currently super happy managing a team of SysOps here at Puppet.
+   Managing machines and systems is kind of fun too, but people, man.
  * Systems and operations, especially the DevOps world
  * Automation of the same
- * Management of the same, and the people who do them
  * Security of networks, systems, people... anything and everything
 
 I've got a GPG key if you like that sort of thing.  Email address is the one above.<br />
