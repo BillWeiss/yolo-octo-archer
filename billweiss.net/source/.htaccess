@@ -1,3 +1,8 @@
+## local rules first
+RewriteEngine on
+RewriteRule ^gruntlebot$  gruntlebot.html [L]
+RewriteRule ^GruntleBot$  gruntlebot.html [L]
+
 # Apache configuration file
 # httpd.apache.org/docs/2.2/mod/quickreference.html
 
