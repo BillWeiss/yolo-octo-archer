@@ -28,9 +28,13 @@ point:
  * Security of networks, systems, people... anything and everything
 
 I've got a GPG key if you like that sort of thing.  Email address is the one above.<br />
-The key ID: `5D055836`<br />
-Fingerprint: `4B15 D741 D64D 55BF 52AA 2221 75A9 6570 5D05 5836`<br />
+The key ID: `0x75A965705D055836`<br />
+Fingerprint: `4B15 D741 D64D 55BF 52AA  2221 75A9 6570 5D05 5836`<br />
 The entire file is here: [bweiss.asc](http://www.clanspum.net/~houdini/bweiss.asc)
+
+There's another attached to my work address.<br />
+The key ID: `0xEE1540F03379956C`<br />
+Fingerprint: `7CE0 77DB 6D06 EF1C F7E6  2427 EE15 40F0 3379 956C`
 
 I have an old key, ID `0AD234B0`, which has been revoked.  Nothing
 nefarious happened, I just lost access to it.
