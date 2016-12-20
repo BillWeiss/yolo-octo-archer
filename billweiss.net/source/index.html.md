@@ -15,6 +15,7 @@ In the meantime, you can find me in a bunch of places:
 
  * On [Twitter as BillWeiss](https://twitter.com/BillWeiss/)
  * On [GitHub as BillWeiss](https://github.com/BillWeiss)
+ * On [KeyBase as billweiss](https://keybase.io/billweiss) (useful if you want to encrypt messages to me)
  * At [Puppet](https://puppet.com/), my day job.  "bV" at that domain will reach me.
  * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
  * Via email tons of places, but preferably "bv" at this domain
