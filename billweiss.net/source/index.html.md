@@ -13,15 +13,16 @@ AND it's not just raw HTML inexpertly laid down by hand.  I'm using
 
 In the meantime, you can find me in a bunch of places:
 
+ * On [Twitter as BillWeiss](https://twitter.com/BillWeiss/)
  * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
- * At [Puppet Labs](https://puppetlabs.com/), my day job.  "bV" at that domain will reach me.
+ * At [Puppet](https://puppet.com/), my day job.  "bV" at that domain will reach me.
  * On [GitHub as BillWeiss](https://github.com/BillWeiss)
  * Via email tons of places, but preferably "bv" at this domain
 
 Things I'm interested in, and will start writing about here at some
 point:
 
- * Management!  I'm currently super happy managing a team of SysOps here at Puppet.
+ * Management!  I'm currently super happy managing a team of SREs here at Puppet.
    Managing machines and systems is kind of fun too, but people, man.
  * Systems and operations, especially the DevOps world
  * Automation of the same
