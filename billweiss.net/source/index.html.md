@@ -14,9 +14,9 @@ AND it's not just raw HTML inexpertly laid down by hand.  I'm using
 In the meantime, you can find me in a bunch of places:
 
  * On [Twitter as BillWeiss](https://twitter.com/BillWeiss/)
- * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
- * At [Puppet](https://puppet.com/), my day job.  "bV" at that domain will reach me.
  * On [GitHub as BillWeiss](https://github.com/BillWeiss)
+ * At [Puppet](https://puppet.com/), my day job.  "bV" at that domain will reach me.
+ * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
  * Via email tons of places, but preferably "bv" at this domain
 
 Things I'm interested in, and will start writing about here at some
